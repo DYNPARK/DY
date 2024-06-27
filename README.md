@@ -4,7 +4,7 @@
 
 초보자도 쉽게 배울 수 있도록 R 수업 내용을 정리하였습니다.
 
-<img src="https://github.com/oracleyu01/R_class/blob/main/R%20%EC%88%98%EC%97%852.png" width="600" height="400">
+<img src="https://github.com/DYNPARK/DY/blob/main/b4fcef6d5882a6cd8dc193817797cf5d4b74f653.png" width="600" height="400">
 
 &nbsp;
 
