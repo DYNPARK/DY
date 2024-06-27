@@ -20,4 +20,4 @@
 
 - **예제4. R의 자료 구조 5가지를 알아야해요!**: 📄 [노트](https://github.com/oracleyu01/R_class/blob/main/%E2%96%A3%20%EC%98%88%EC%A0%9C4.%20%20R%EC%9D%98%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0%205%EA%B0%80%EC%A7%80.txt)
 
-- - **예제4. R이란?**: 📄 [노트](https://www.notion.so/R-82d8003beeaa4511a9c6a02af397ae9d?pvs=4#4334db9cf0b14469aceaa7a244a846a4)
+- **예제4. R이란?**: 📄 [노트](https://www.notion.so/R-82d8003beeaa4511a9c6a02af397ae9d?pvs=4#4334db9cf0b14469aceaa7a244a846a4)
