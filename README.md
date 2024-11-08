@@ -23,8 +23,10 @@
   &nbsp;
   
   - **10. 서울시 생활권 그래프** :
-    - 1.  서울시 생활권 별 시군구 시각화 <img src="https://github.com/DYNPARK/DY/blob/6770702b4e8641601bf142909c974e83c1db96e9/10map1.png" width="600">
+    - 1.  서울시 생활권 별 시군구 시각화
+         <img src="https://github.com/DYNPARK/DY/blob/6770702b4e8641601bf142909c974e83c1db96e9/10map1.png" width="600">
   &nbsp;
-      2.  서울시 생활권 시각화  <img src="https://github.com/DYNPARK/DY/blob/6770702b4e8641601bf142909c974e83c1db96e9/10map2.png"  width="600">
+    - 2.  서울시 생활권 시각화
+         <img src="https://github.com/DYNPARK/DY/blob/6770702b4e8641601bf142909c974e83c1db96e9/10map2.png"  width="600">
   &nbsp;
 
