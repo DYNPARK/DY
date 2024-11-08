@@ -1,5 +1,5 @@
-# 태블로 그래프
-
+# 태블로 시각화
+- **1. 히스토그램**:
 <img src="https://github.com/DYNPARK/DY/blob/c396998d8c7dee5b49b459c643311fc9ad2027ec/%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A81.png" width="600" height="400">
 
 &nbsp;
